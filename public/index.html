@@ -39,5 +39,118 @@
       To begin the development, run `npm start` or `yarn start`.
       To create a production bundle, use `npm run build` or `yarn build`.
     -->
+
+    <h1>Regular Function</h1>
+
+<p>The <strong>this</strong> keyword represents different objects depending on how the function was called.</p>
+
+<button id="btn">Click Me!</button>
+
+<p><strong>this</strong> represents:</p>
+
+<p id="demo"></p>
+
+<p>See the difference before and after the button is clicked.</p>
+
+<div id="root1"></div>
+<div id="root2"></div>
+<div>COMPONENTS</div>
+<br>
+MY ALERT BUTTON:<div id="root3"></div>
+<br>
+<div id="root4"></div>
+<div id="root5"></div>
+<div id="root6"></div>
+<div id="root7"></div>
+<div id="root8"></div>
+<div id="root9"></div>
+
+
+<script>
+
+// import React from 'react';
+// import ReactDOM from 'react-dom';
+
+//to nie zadziała, bo to ES6 w skrypcie:
+class Car1 {
+  constructor(name) {
+    this.brand = name;
+  }
+}
+
+mycar = new Car1("Ford");
+
+document.write(mycar.brand);
+
+class Header {
+  constructor() {
+    this.color = "Red";
+  }
+
+//Regular function:
+  changeColor = function() {
+    document.getElementById("demo").innerHTML += this;
+  }
+}
+
+myheader = new Header();
+
+//The window object calls the function:
+window.addEventListener("load", myheader.changeColor);
+
+//A button object calls the function:
+document.getElementById("btn").addEventListener("click", myheader.changeColor);
+</script>
+
+<script>
+  // alert('misiek');
+
+  function ProductVariants1(element1, options1) {
+      // var _this22 = this;
+
+      this.element1 = element1;
+      // this.delegateElement = new domDelegate.Delegate(this.element);
+      this.options1 = options1;
+  }
+  var costam1 = new ProductVariants1("misiek1", "kotek1");
+  document.write(costam1.element1);
+  document.write(costam1.options1);
+  document.write(costam1);
+
+  var ProductVariants = function () {
+    function ProductVariants(element, options) {
+      // var _this21 = this;
+
+      this.element = element;
+      // this.delegateElement = new domDelegate.Delegate(this.element);
+      this.options = options;
+      document.write(this.element+": "+this.options)
+    }
+    return ProductVariants;
+  }(); 
+
+  // var costam = ProductVariants();
+ 
+  // console.log(costam);
+  // console.log(costam.options);
+  // console.log(costam);
+
+
+  // class Car111 extends React.Component {
+  //   constructor() {
+  //     super();
+  //     this.state = {color: "red"};
+  //   }
+  //   render() {
+  //     return <h2>I am a {this.state.color} Car!</h2>;
+  //   }
+  // }
+
+  // ReactDOM.render(<Car111 />, document.getElementById('root2'));
+
+
+</script>
   </body>
 </html>
+
+
