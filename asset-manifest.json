@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/pmyszkier/react-first-app/static/css/main.d1b05096.chunk.css",
-    "main.js": "/pmyszkier/react-first-app/static/js/main.b2a5fce0.chunk.js",
-    "main.js.map": "/pmyszkier/react-first-app/static/js/main.b2a5fce0.chunk.js.map",
-    "runtime-main.js": "/pmyszkier/react-first-app/static/js/runtime-main.d256ebfb.js",
-    "runtime-main.js.map": "/pmyszkier/react-first-app/static/js/runtime-main.d256ebfb.js.map",
-    "static/js/2.ec2756ca.chunk.js": "/pmyszkier/react-first-app/static/js/2.ec2756ca.chunk.js",
-    "static/js/2.ec2756ca.chunk.js.map": "/pmyszkier/react-first-app/static/js/2.ec2756ca.chunk.js.map",
-    "index.html": "/pmyszkier/react-first-app/index.html",
-    "precache-manifest.81a96faec4a58a8692778a5b3299c6dd.js": "/pmyszkier/react-first-app/precache-manifest.81a96faec4a58a8692778a5b3299c6dd.js",
-    "service-worker.js": "/pmyszkier/react-first-app/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/pmyszkier/react-first-app/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.ec2756ca.chunk.js.LICENSE": "/pmyszkier/react-first-app/static/js/2.ec2756ca.chunk.js.LICENSE",
-    "static/media/logo.svg": "/pmyszkier/react-first-app/static/media/logo.5d5d9eef.svg"
+    "main.css": "/react-first-app/static/css/main.d1b05096.chunk.css",
+    "main.js": "/react-first-app/static/js/main.2100774c.chunk.js",
+    "main.js.map": "/react-first-app/static/js/main.2100774c.chunk.js.map",
+    "runtime-main.js": "/react-first-app/static/js/runtime-main.1f34f7ab.js",
+    "runtime-main.js.map": "/react-first-app/static/js/runtime-main.1f34f7ab.js.map",
+    "static/js/2.ec2756ca.chunk.js": "/react-first-app/static/js/2.ec2756ca.chunk.js",
+    "static/js/2.ec2756ca.chunk.js.map": "/react-first-app/static/js/2.ec2756ca.chunk.js.map",
+    "index.html": "/react-first-app/index.html",
+    "precache-manifest.cb5f75f0bf9656e1f7aa4d6509e01122.js": "/react-first-app/precache-manifest.cb5f75f0bf9656e1f7aa4d6509e01122.js",
+    "service-worker.js": "/react-first-app/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/react-first-app/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.ec2756ca.chunk.js.LICENSE": "/react-first-app/static/js/2.ec2756ca.chunk.js.LICENSE",
+    "static/media/logo.svg": "/react-first-app/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d256ebfb.js",
+    "static/js/runtime-main.1f34f7ab.js",
     "static/js/2.ec2756ca.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.b2a5fce0.chunk.js"
+    "static/js/main.2100774c.chunk.js"
   ]
 }
