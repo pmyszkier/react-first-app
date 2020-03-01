@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/pmyszkier/react-first-app.git/static/css/main.d1b05096.chunk.css",
-    "main.js": "/pmyszkier/react-first-app.git/static/js/main.49fd61c0.chunk.js",
-    "main.js.map": "/pmyszkier/react-first-app.git/static/js/main.49fd61c0.chunk.js.map",
+    "main.js": "/pmyszkier/react-first-app.git/static/js/main.3396baa9.chunk.js",
+    "main.js.map": "/pmyszkier/react-first-app.git/static/js/main.3396baa9.chunk.js.map",
     "runtime-main.js": "/pmyszkier/react-first-app.git/static/js/runtime-main.0cd53b6d.js",
     "runtime-main.js.map": "/pmyszkier/react-first-app.git/static/js/runtime-main.0cd53b6d.js.map",
     "static/js/2.ec2756ca.chunk.js": "/pmyszkier/react-first-app.git/static/js/2.ec2756ca.chunk.js",
     "static/js/2.ec2756ca.chunk.js.map": "/pmyszkier/react-first-app.git/static/js/2.ec2756ca.chunk.js.map",
     "index.html": "/pmyszkier/react-first-app.git/index.html",
-    "precache-manifest.633e28aedcc7c845c26f097bd6a807aa.js": "/pmyszkier/react-first-app.git/precache-manifest.633e28aedcc7c845c26f097bd6a807aa.js",
+    "precache-manifest.abd7e97670789959050c4376f9e1723c.js": "/pmyszkier/react-first-app.git/precache-manifest.abd7e97670789959050c4376f9e1723c.js",
     "service-worker.js": "/pmyszkier/react-first-app.git/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/pmyszkier/react-first-app.git/static/css/main.d1b05096.chunk.css.map",
     "static/js/2.ec2756ca.chunk.js.LICENSE": "/pmyszkier/react-first-app.git/static/js/2.ec2756ca.chunk.js.LICENSE",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.0cd53b6d.js",
     "static/js/2.ec2756ca.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.49fd61c0.chunk.js"
+    "static/js/main.3396baa9.chunk.js"
   ]
 }
