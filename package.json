@@ -2,7 +2,7 @@
   "name": "myfirstreact",
   "version": "0.1.0",
   "private": true,
-  "homepage": "git@github.com:pmyszkier/react-first-app.git",
+  "homepage": "https://github.com/pmyszkier/react-first-app.git",
   "user": {
     "name": "pmyszkier",
     "email": "p.myszkier@gazeta.pl"

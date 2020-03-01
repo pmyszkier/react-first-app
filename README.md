@@ -110,23 +110,26 @@ https://github.com/facebook/create-react-app/blob/master/CHANGELOG.md
 wg https://typeofweb.com/react-js-na-github-pages-dzieki-create-react-app/ 
 Zainstaluj pomocniczą paczkę gh-pages.
 Jest to proste narzędzie do publikowania rzeczy na GitHubie. Jedno polecenie: 
-`npm install --save-dev gh-pages`
 `yarn add gh-pages`
+Nie stosować `npm install --save-dev gh-pages` ponieważ npm nie jest dobrze skonfigurowane
+
 
 Następnie dodaj dwa nowe skrypty do swojego package.json:
 
 {
   "scripts": {
       "predeploy": "npm run build",
-      "deploy": "gh-pages -d build",
+      "deploy": "gh-pages -b master -d public",
       …
   }
 }
 
-po czym `npm run deploy`
+po czym `yarn run deploy`
+raczej nie stosować `npm run deploy`
 
-jeśli wychodzi z błędami, to
+jeśli wychodzi z błędami, to:
+- przede wszystkim zupdatować git
 `git remote -v` - jeśli nie ma żadnej odpowiedzi, to: 
 `git remote add origin "your_github_repository_url"`
 `git remote -v` - powinno podać listę
-`git push origin master`
+
