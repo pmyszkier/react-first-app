@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/pmyszkier/react-first-app.git/static/css/main.d1b05096.chunk.css",
-    "main.js": "/pmyszkier/react-first-app.git/static/js/main.953a330b.chunk.js",
-    "main.js.map": "/pmyszkier/react-first-app.git/static/js/main.953a330b.chunk.js.map",
-    "runtime-main.js": "/pmyszkier/react-first-app.git/static/js/runtime-main.8baf4878.js",
-    "runtime-main.js.map": "/pmyszkier/react-first-app.git/static/js/runtime-main.8baf4878.js.map",
-    "static/js/2.6aef294c.chunk.js": "/pmyszkier/react-first-app.git/static/js/2.6aef294c.chunk.js",
-    "static/js/2.6aef294c.chunk.js.map": "/pmyszkier/react-first-app.git/static/js/2.6aef294c.chunk.js.map",
+    "main.js": "/pmyszkier/react-first-app.git/static/js/main.49fd61c0.chunk.js",
+    "main.js.map": "/pmyszkier/react-first-app.git/static/js/main.49fd61c0.chunk.js.map",
+    "runtime-main.js": "/pmyszkier/react-first-app.git/static/js/runtime-main.0cd53b6d.js",
+    "runtime-main.js.map": "/pmyszkier/react-first-app.git/static/js/runtime-main.0cd53b6d.js.map",
+    "static/js/2.ec2756ca.chunk.js": "/pmyszkier/react-first-app.git/static/js/2.ec2756ca.chunk.js",
+    "static/js/2.ec2756ca.chunk.js.map": "/pmyszkier/react-first-app.git/static/js/2.ec2756ca.chunk.js.map",
     "index.html": "/pmyszkier/react-first-app.git/index.html",
-    "precache-manifest.a72748388b5c37589c13d62a23db5cee.js": "/pmyszkier/react-first-app.git/precache-manifest.a72748388b5c37589c13d62a23db5cee.js",
+    "precache-manifest.633e28aedcc7c845c26f097bd6a807aa.js": "/pmyszkier/react-first-app.git/precache-manifest.633e28aedcc7c845c26f097bd6a807aa.js",
     "service-worker.js": "/pmyszkier/react-first-app.git/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/pmyszkier/react-first-app.git/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.6aef294c.chunk.js.LICENSE": "/pmyszkier/react-first-app.git/static/js/2.6aef294c.chunk.js.LICENSE",
+    "static/js/2.ec2756ca.chunk.js.LICENSE": "/pmyszkier/react-first-app.git/static/js/2.ec2756ca.chunk.js.LICENSE",
     "static/media/logo.svg": "/pmyszkier/react-first-app.git/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8baf4878.js",
-    "static/js/2.6aef294c.chunk.js",
+    "static/js/runtime-main.0cd53b6d.js",
+    "static/js/2.ec2756ca.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.953a330b.chunk.js"
+    "static/js/main.49fd61c0.chunk.js"
   ]
 }
