@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3ef233d95b31799e4917d90d8053b2d6",
+    "revision": "eb50ebef483fa4f497e171d46ef6cbcc",
     "url": "/pmyszkier/react-first-app.git/index.html"
   },
   {
